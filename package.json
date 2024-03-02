@@ -1,0 +1,24 @@
+{
+  "name": "@web3-starter-kit/kits",
+  "version": "1.0.0",
+  "author": "oki",
+  "description": "common toolkit",
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@widget-plus/utils": "^1.1.0"
+  }
+}
